@@ -1,0 +1,3 @@
+int t;
+for(i=0,i<t,i++)
+   123ab<
